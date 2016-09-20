@@ -23,3 +23,20 @@ log(cat)
 /// 
 
 ```
+
+## Contact
+
+If you have any questions or suggestions, feel free to [open an issue][1], file a pull request or shoot me an [email][2].
+
+You can also follow and contact me on [Twitter][3].
+
+## License
+
+Logger is available under the [MIT License][4].
+
+
+
+[1]:	https://github.com/bennibrightside/Logger/issues/new "open an issue"
+[2]:	mailto:apps@ben-boecker.de "email"
+[3]:	https://twitter.com/BenBoecker "Twitter"
+[4]:	https://github.com/bennibrightside/Logger/blob/master/LICENSE "MIT License"
